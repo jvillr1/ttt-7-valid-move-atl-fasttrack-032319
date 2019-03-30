@@ -20,4 +20,3 @@ if (position_taken?(board, index)) == false && (board(index) == true)
 else
   return false
 end
-end 
