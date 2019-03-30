@@ -1,5 +1,5 @@
 # code your #valid_move? method here
-def valid move?(board, index)
+def valid move?(board)
 end
   
   
